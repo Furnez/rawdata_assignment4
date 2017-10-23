@@ -1,0 +1,8 @@
+C:\Users\Shyn4\Documents\International\RAWDATA\C#\Assignment_4\Assignment4\bin\Debug\netstandard2.0\Assignment_4.deps.json
+C:\Users\Shyn4\Documents\International\RAWDATA\C#\Assignment_4\Assignment4\bin\Debug\netstandard2.0\Assignment_4.dll
+C:\Users\Shyn4\Documents\International\RAWDATA\C#\Assignment_4\Assignment4\bin\Debug\netstandard2.0\Assignment_4.pdb
+C:\Users\Shyn4\Documents\International\RAWDATA\C#\Assignment_4\Assignment4\obj\Debug\netstandard2.0\Assignment_4.csproj.CoreCompileInputs.cache
+C:\Users\Shyn4\Documents\International\RAWDATA\C#\Assignment_4\Assignment4\obj\Debug\netstandard2.0\Assignment_4.AssemblyInfoInputs.cache
+C:\Users\Shyn4\Documents\International\RAWDATA\C#\Assignment_4\Assignment4\obj\Debug\netstandard2.0\Assignment_4.AssemblyInfo.cs
+C:\Users\Shyn4\Documents\International\RAWDATA\C#\Assignment_4\Assignment4\obj\Debug\netstandard2.0\Assignment_4.dll
+C:\Users\Shyn4\Documents\International\RAWDATA\C#\Assignment_4\Assignment4\obj\Debug\netstandard2.0\Assignment_4.pdb
